@@ -1,5 +1,5 @@
 <h1>Hey! Welcome 👋</h1>
-<p>My name is Xariona. I'm a Backend developer and a Ducati motors staff. I'm 21 years old now, I love to ride motorcycles, especially to ride like a vagrant. When I'm bored, I'll make projects here and don't forget to stay tuned!</p>
+<p>My name is Xariona. I'm a Backend developer. I'm 21 years old now, I love to ride motorcycles, especially to ride like a vagrant. When I'm bored, I'll make projects here and don't forget to stay tuned!</p>
 <div align="flex">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xarionawashere&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
   <div>
