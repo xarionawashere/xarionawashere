@@ -1,5 +1,3 @@
-
-Save New Duplicate & Edit Just Text Twitter
 <h1>Hey! Welcome 👋</h1>
 <p>My name is Xariona. I'm a Backend developer and a Ducati motors staff. I'm 21 years old now, I love to ride motorcycles, especially to ride like a vagrant. When I'm bored, I'll make projects here and don't forget to stay tuned!</p>
 <div align="flex">
