@@ -3,13 +3,10 @@ Save New Duplicate & Edit Just Text Twitter
 <h1>Hey! Welcome 👋</h1>
 <p>My name is Xariona. I'm a Backend developer and a Ducati motors staff. I'm 21 years old now, I love to ride motorcycles, especially to ride like a vagrant. When I'm bored, I'll make projects here and don't forget to stay tuned!</p>
 <div align="flex">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xarionawashere&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
   <div>
     <h2>I using this</h2>
     <div align="flex">
-      <a href="https://www.mozilla.org/en-US/firefox/new/">
-        <img src="https://img.shields.io/badge/-Firefox Browser-FF7139?style=flat-square&logo=firefox-browser&logoColor=white"> 
-      </a>
       <a href="https://discord.com/">
         <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"> 
       </a>
