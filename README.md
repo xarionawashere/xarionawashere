@@ -26,7 +26,7 @@
       <a href="https://firebase.google.com/">
         <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
       </a>
-      <a href="">
+      <a href="https://visualstudio.microsoft.com/">
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-FFCA28?style=flat-square&logo=visualstudiocode&logoColor=black">
       </a>
     </div>
