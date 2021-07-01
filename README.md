@@ -11,6 +11,9 @@
       <a href="https://www.spotify.com/tr/">
         <img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white">
       </a>
+      <a href="https://nextjs.org/">
+        <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next-dot-js&logoColor=white">
+      </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"> 
       </a>
